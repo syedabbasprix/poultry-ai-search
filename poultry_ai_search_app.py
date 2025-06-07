@@ -22,7 +22,8 @@ synonyms = {
 
 st.set_page_config(page_title="Poultry Medicine Search App", layout="wide")
 
-st.image("company_logo.png", width=150)  # Your logo
+st.image("https://raw.githubusercontent.com/syedabbasprix/poultry-ai-search/main/company_logo.png", width=150)
+
 st.title("🔍 Poultry Medicine Search App")
 st.write("Search by disease, brand, ingredient, or symptoms. Powered by AI.")
 
